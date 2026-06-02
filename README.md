@@ -104,12 +104,6 @@ The project generates:
 
 ---
 
-## 👨‍💻 Author
-
-Pranita Yadav
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License.
